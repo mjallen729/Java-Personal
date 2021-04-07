@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import org.apache.commons.io.FileUtils;
 
-public class fileExtract {
+public class FileExtract {
 
 	public static void main(String[] args) {
 		
@@ -46,12 +46,6 @@ public class fileExtract {
 			}
 			
 		}
-		
-	}
-	
-	private static void test() {
-		
-		
 		
 	}
 	
