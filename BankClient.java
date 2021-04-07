@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Diagnostic {
+class BankClient {
 	
 	public static void main(String[] args) throws IOException {
 		String username = null;
